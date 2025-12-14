@@ -1,15 +1,3 @@
-// import React from 'react'
-
-// const SearchProducts = () => {
-//     return (
-//         <div>
-
-//         </div>
-//     )
-// }
-
-// export default SearchProducts;
-
 import React from "react";
 
 const SearchProducts = ({ onSearch }) => {
